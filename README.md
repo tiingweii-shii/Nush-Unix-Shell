@@ -45,6 +45,9 @@ $ ./nush tests/01-echo-one.sh
     ```
     nush$ cd /path/to/directory
     ```
+    ```
+    nush$ pwd
+    ```
 - Redirect input/output:
     ```
     nush$ head -n 2 < test.txt
