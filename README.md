@@ -72,7 +72,7 @@ $ ./nush tests/01-echo-one.sh
     ```
     nush$ echo one; cat sample.txt
     ```
-- Variables Support
+- Variables
     ```
     nush$ FOO=one
     nush$ BAR=two
@@ -93,4 +93,7 @@ Run the shell:
 ```
 $ ./nush
 ```
-
+To exit the shell:
+```
+$ exit
+```
