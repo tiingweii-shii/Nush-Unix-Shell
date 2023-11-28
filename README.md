@@ -2,7 +2,7 @@
 ### Overview
 Nush (Northeastern University Shell) is a custom Unix Shell designed to provide a command-line interface with support for executing external programs, bash built-in commands, and operators. It supports interactive mode and script file execution, making it a powerful tool for both manual and automated command execution.
 
-This project was the first challenge assignment for [CS 3650 Computer Systems](https://searchneu.com/NEU/202110/search/CS3650) at Northeastern University.
+This project was the first challenge assignment for [CS3650 Computer Systems](https://searchneu.com/NEU/202110/search/CS3650) at Northeastern University.
 
 
 ### Features
