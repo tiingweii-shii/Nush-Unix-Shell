@@ -88,6 +88,10 @@ Clone the repository:
 ```
 $ git clone https://github.com/tiingweii-shii/Nush-Unix-Shell
 ```
+Navigate to the nush directory:
+```
+$ cd path-to-repository/nush
+```
 Compile the shell:
 ```
 $ make
@@ -98,5 +102,5 @@ $ ./nush
 ```
 To exit the shell:
 ```
-$ exit
+nush$ exit
 ```
